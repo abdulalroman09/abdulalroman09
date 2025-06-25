@@ -20,7 +20,16 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 
-### 📈 GitHub Stats:
-![Noman's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+<div align="center">
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=abdulalroman09&show_icons=true&theme=default" width="48%" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulalroman09&layout=compact&theme=default" width="48%" />
+
+</div>
+
+
