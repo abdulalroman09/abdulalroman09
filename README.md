@@ -1,4 +1,4 @@
-### Hi there, I'm Abdul Al Noman 👋
+### Hi there, I'm Abdul Al Roman 👋
 
 🎓 BSc in CSE | Faridpur Engineering College  
 🌱 I’m currently learning MERN Stack  
