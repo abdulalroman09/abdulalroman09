@@ -3,7 +3,7 @@
 🎓 BSc in CSE | Faridpur Engineering College  
 🌱 I’m currently learning MERN Stack  
 💼 I’m looking to collaborate on real-world MERN projects  
-📫 How to reach me: abdul.noman@gmail.com
+📫 How to reach me:abdulal.roman09@gmail.com
 
 ## 🛠️ Things I Code With
 
@@ -16,6 +16,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat-square)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 
 ### 📈 GitHub Stats:
 ![Noman's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
