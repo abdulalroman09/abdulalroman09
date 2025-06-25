@@ -1,3 +1,8 @@
+## 👨‍💻 About Me
+<p align="center">
+  <img src="https://i.ibb.co/Y7HW00bD/wp8903933-mern-stack-wallpapers.jpg" alt="GitHub Banner" />
+</p>
+
 ### Hi there, I'm Abdul Al Roman 👋
 
 🎓 BSc in CSE | Faridpur Engineering College  
